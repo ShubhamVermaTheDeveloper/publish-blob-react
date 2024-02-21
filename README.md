@@ -42,5 +42,4 @@ REACT_APP_APPWRITE_PROJECT_ID=<---------------->
 REACT_APP_APPWRITE_DATABASE_ID=<---------------->
 REACT_APP_APPWRITE_COLLECTION_ID=<---------------->
 REACT_APP_APPWRITE_BUCKET_ID=<---------------->
-
 ```
