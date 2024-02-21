@@ -43,3 +43,5 @@ REACT_APP_APPWRITE_DATABASE_ID=<---------------->
 REACT_APP_APPWRITE_COLLECTION_ID=<---------------->
 REACT_APP_APPWRITE_BUCKET_ID=<---------------->
 ```
+
+### visit this url for [Email and passwrod login](https://appwrite.io/docs/products/auth/email-password)
