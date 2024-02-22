@@ -1,10 +1,18 @@
 # simple blog application
 
+### clone the repo
+
 ```
-npm create vite@latest
+git clone git@github.com:ShubhamVermaTheDeveloper/publish-blob-react.git
 ```
 
-## configure the tailwindcss
+### install dependencies
+
+```
+npm i
+```
+
+## configure the tailwindcss(if needed)
 
 ```
 npm install -D tailwindcss postcss autoprefixer
