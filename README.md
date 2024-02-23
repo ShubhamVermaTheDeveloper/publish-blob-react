@@ -53,3 +53,7 @@ REACT_APP_APPWRITE_BUCKET_ID=<---------------->
 ```
 
 ### visit this url for [Email and passwrod login](https://appwrite.io/docs/products/auth/email-password)
+
+### tiny cloud
+
+[tiny cloud](https://www.tiny.cloud/docs/tinymce/6/react-cloud/)
