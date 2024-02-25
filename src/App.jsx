@@ -9,11 +9,10 @@ import Header from "./components/Header/Header";
 import Footer from "./components/footer/Footer";
 import authService from "./appwrite/auth";
 import Logo from "./components/Logo";
-
+import "./index.css";
 function App() {
   const [loading, setLoading] = useState(true);
   const dispatch = useDispatch();
-
   useEffect(() => {
     authService
       .getCurrentUser()
@@ -23,7 +22,6 @@ function App() {
       })
       .finally(() => setLoading(false));
   }, [dispatch]);
-
   return !loading ? (
     <div className="min-h-screen flex flex-wrap content-between bg-gray-400">
       <div className="w-full block">

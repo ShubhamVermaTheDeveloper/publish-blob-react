@@ -2,10 +2,10 @@ import React, { useCallback } from "react";
 import { useForm } from "react-hook-form";
 import Button from "../Button";
 import Input from "../Input";
-import RTE from "./RTE";
+import RTE from "../Header/RTE";
 import Select from "../Select";
 import appwriteService from "../../appwrite/config";
-import { UseSelector, useSelector } from "react-redux";
+import { useSelector } from "react-redux";
 import { useNavigate, useSearchParams } from "react-router-dom";
 
 export default function PostForm({ post }) {
