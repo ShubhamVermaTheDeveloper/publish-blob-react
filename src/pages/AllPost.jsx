@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import appwriteService from "../appwrite/config";
 import { useState } from "react";
 import Container from "../components/container/Container";
